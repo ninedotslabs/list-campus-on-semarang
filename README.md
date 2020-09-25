@@ -2,4 +2,4 @@
 
 This repository aim to list campus in Semarang complete with address.
 
-[List Campus](./LIST-CAMPUS.md)
+[List Campus](./list-kampus.json)
