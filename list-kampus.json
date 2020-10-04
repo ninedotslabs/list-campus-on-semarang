@@ -2,13 +2,19 @@
   {
 		"name": "UIN Walisongo Semarang",
 		"address": "Jl. Walisongo No.3-5, Tambakaji, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50185",
-		"phone": "0247604554",
+		"phone": "+62247604554",
 		"gmaps": "https://goo.gl/maps/UnCCRt9dm4SGwwXt7"
 	},
 	{
 		"name": "Universitas Semarang(Semarang University)",
 		"address": "Jl. Soekarno Hatta, Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 59160",
-		"phone": "0246702757",
+		"phone": "+62246702757",
 		"gmaps": "https://goo.gl/maps/wpdqibDWLkQ6EJr57"
+	},
+	{
+		"name": "Dian Nuswantoro University (Universitas Dian Nuswantoro)",
+		"address": "Jl. Imam Bonjol No.207, Pendrikan Kidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50131",
+		"phone": "+62243517261",
+		"gmaps": "https://goo.gl/maps/LJKFj31T3xnE66LYA"
 	}
 ]
