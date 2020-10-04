@@ -26,19 +26,19 @@
 	{
 		"name": "Universitas Diponegoro",
 		"address": "Jl. Prof. Sudarto No.13, Tembalang, Kec. Tembalang, Kota Semarang, Jawa Tengah 50275",
-		"phone":"(024) 7460024",
+		"phone":"+62247460024",
 		"gmaps": "https://goo.gl/maps/YXzxkUcXaxPWhtjo6"
 	},
 	{
 		"name": "UNIMUS | Universitas Muhammadiyah Semarang Kampus Unggul di Semarang",
 		"address": "Jl. Kedungmundu No.18, Kedungmundu, Kec. Tembalang, Kota Semarang, Jawa Tengah 50273",
-		"phone": "(024) 76740296",
+		"phone": "+622476740296",
 		"gmaps": "https://goo.gl/maps/9g5cGG1o4cFpwptM9"
 	},
 	{
 		"name": "Universitas Islam Sultan Agung",
 		"address": "Jl. Kaligawe Raya No.KM, RW.4, Terboyo Kulon, Kec. Genuk, Kota Semarang, Jawa Tengah 50112",
-		"phone": "(024) 6583584",
+		"phone": "+62246583584",
 		"gmaps": "https://goo.gl/maps/8hf5xPHMEgt2Wiuu5"
 	}
 ]
