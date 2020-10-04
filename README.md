@@ -2,6 +2,8 @@
 
 This repository aim to list campus in Semarang(currently) complete with address, etc.
 
+We do this because, there's nothing like centralized campus data list of campus in Semarang.
+
 You can hit api and get the list via [this link](https://raw.githubusercontent.com/tiuinws/list-campus-on-semarang/master/list-kampus.json).
 
 The structure currently like this
@@ -34,3 +36,6 @@ Later we add more to structure like
 ```
 
 [List Campus](./list-kampus.json)
+
+# We <3 Open Source and we open for hacktoberfest!
+Can't wait for your pull request!
