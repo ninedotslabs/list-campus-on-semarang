@@ -40,5 +40,17 @@
 		"address": "Jl. Kaligawe Raya No.KM, RW.4, Terboyo Kulon, Kec. Genuk, Kota Semarang, Jawa Tengah 50112",
 		"phone": "+62246583584",
 		"gmaps": "https://goo.gl/maps/8hf5xPHMEgt2Wiuu5"
+	},
+	{
+		"name": "Universitas Stikubank",
+		"address": "Jl. Trilomba Juang No 1, Kec. Semarang Selatan, Kota Semarang, Jawa Tengah 50241",
+		"phone": "+62248451976",
+		"gmaps": "https://goo.gl/maps/azmHAADhPjtN7d4dA"
+	},
+	{
+		"name": "Universitas PGRI",
+		"address": "Jl. Sidodadi Timur Nomor 24 - Dr. Cipto Semarang, Kec. Semarang Timur, Kota Semarang, Jawa Tengah 50232",
+		"phone": "+62248316377",
+		"gmaps": "https://goo.gl/maps/ovk1haKSuUZ7U53W7"
 	}
 ]
